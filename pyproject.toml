@@ -1,0 +1,14 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "KYHSGeekCode", email = "jourhyang123@gmail.com"},
+]
+dependencies = [
+    "ai2thor>=5.0.0",
+]
+requires-python = ">=3.11"
+readme = "README.md"
+license = {text = "MIT"}
+
